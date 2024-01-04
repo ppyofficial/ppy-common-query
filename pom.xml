@@ -13,6 +13,7 @@
         <module>ppy-common-query-service</module>
         <module>ppy-common-query-controller</module>
         <module>ppy-common-query-app</module>
+        <module>ppy-common-query-base</module>
     </modules>
     <version>1.0</version>
 
