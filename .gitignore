@@ -1,0 +1,5 @@
+﻿.idea
+ppy-common-query-entity/target
+ppy-common-query-mapper/target
+/logs
+/target
