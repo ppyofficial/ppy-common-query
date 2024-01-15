@@ -3,3 +3,5 @@ ppy-common-query-entity/target
 ppy-common-query-mapper/target
 /logs
 /target
+.fastRequest
+ppy-common-query-app/target

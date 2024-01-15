@@ -13,4 +13,8 @@
 
     <name>ppy-common-query-base</name>
 
+
+    <dependencies>
+
+    </dependencies>
 </project>
